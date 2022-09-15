@@ -54,7 +54,7 @@ section {
   grid-template-rows: repeat(2, 1fr);
 }
 .main__content {
-  border-top: 1px solid darkgrey;
+  
   padding-top: 1rem;
   -ms-grid-row: 2;
       grid-row-start: 2;
