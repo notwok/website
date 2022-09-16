@@ -6,5 +6,5 @@ const titleText = Array(
 )
 const random = Math.floor(Math.random() * titleText.length);
 
-
 window.onload = title.innerHTML = titleText[random];
+window.onload = title.classList.add('text-raisin');
